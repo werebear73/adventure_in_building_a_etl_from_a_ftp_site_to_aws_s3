@@ -25,9 +25,10 @@ This project is to move the daily file from a FTP site to a AWS S3 bucket for fu
 ![Context Level Dataflow Diagram](context_level_dataflow_diagram.svg)
 
 ### Textual Context Level Dataflow
-| ID  | External Agent | Data Coming From EA | Data Going To EA |
-| --- | -------------- | ------------------- | ---------------- |
-| DF1 | | | |
+| ID  | External Agent | Data Coming From EA |  Data Going To EA  |
+| --- | -------------- | ------------------- | ------------------ |
+| DF1 | FTP Site       | Data File (Zipped)  |                    |
+| DF2 | AWS S3         |                     | Data File (Zipped) |
 
 ## Items Out of Scope
 | ID | Items Out of Scope |
