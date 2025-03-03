@@ -11,7 +11,9 @@ This project is to move the daily file from a FTP site to a AWS S3 bucket for fu
 ## Project Assumptions
 | ID | Assumptions |
 |:---:|:---|
-|AS01||
+|AS01|The daily file will always be there at the prescribed time.|
+|AS01|The FTP site will always be available at the prescribed time.|
+|AS01|The AWS S3 will always be available at the prescribed time.|
 
 ## Project Constraints
 | ID | Constraints|
