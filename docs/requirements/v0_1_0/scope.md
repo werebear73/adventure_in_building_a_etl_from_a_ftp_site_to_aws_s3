@@ -33,7 +33,9 @@ This project is to move the daily file from a FTP site to a AWS S3 bucket for fu
 ## Items Out of Scope
 | ID | Items Out of Scope |
 |:---:|:---|
-|OOS01||
+|OOS01| Processing of the file after it is in the AWS S3 |
+|OOS02| Trying to transfer files that may not been missed |
+|OOS03| Trying to transfer files that on the FTP prior to the application development |
 
 ## Project Stackholders
 | Name | Title | Role |
