@@ -18,7 +18,7 @@ This project is to move the daily file from a FTP site to a AWS S3 bucket for fu
 ## Project Constraints
 | ID | Constraints|
 |:---:|:---|
-|CO01||
+|CO01|Make the process as cheap as possible.|
 
 ## External Interactions
 ### Context Level Dataflow Diagram
