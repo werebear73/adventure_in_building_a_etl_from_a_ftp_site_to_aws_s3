@@ -6,7 +6,7 @@ This project is to move the daily file from a FTP site to a AWS S3 bucket for fu
 ## Objective
 | ID | Objective |
 |:---:|:---|
-|OBJ01||
+|OBJ01|Move the daily file from the FTP site to the S3 Bucket|
 
 ## Project Assumptions
 | ID | Assumptions |
