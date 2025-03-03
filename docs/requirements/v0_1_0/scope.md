@@ -1,6 +1,7 @@
 # Scope
 
 ## Project Statement of Purpose
+This project is to move the daily file from a FTP site to a AWS S3 bucket for further processing which is not in the scope of the project.
 
 ## Objective
 | ID | Objective |
