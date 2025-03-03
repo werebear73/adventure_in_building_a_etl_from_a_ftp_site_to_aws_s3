@@ -40,6 +40,8 @@ This project is to move the daily file from a FTP site to a AWS S3 bucket for fu
 ## Project Stackholders
 | Name | Title | Role |
 |:---:|:---:|:---:|
+| Sam Ware | Owner of Waretech Services | Business Analyst and Developer |
+| Undisclosed Individual | Project Lead | Project Owner |
 
 ## Glossary
 | ID | Term | Definition |
